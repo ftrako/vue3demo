@@ -1,5 +1,7 @@
 # vue3demo
 
+vue3+ts
+
 ## Project setup
 ```
 yarn install
